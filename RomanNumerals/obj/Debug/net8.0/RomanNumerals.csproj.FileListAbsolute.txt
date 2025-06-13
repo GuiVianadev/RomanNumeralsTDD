@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\bin\Debug\net8.0\RomanNumerals.deps.json
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\bin\Debug\net8.0\RomanNumerals.dll
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\bin\Debug\net8.0\RomanNumerals.pdb
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.dll
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\refint\RomanNumerals.dll
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\RomanNumerals.pdb
+C:\Users\Guilherme\Documents\RomanNumeralsKata\RomanNumerals\obj\Debug\net8.0\ref\RomanNumerals.dll
